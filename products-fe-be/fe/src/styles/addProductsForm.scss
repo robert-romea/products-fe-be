@@ -1,0 +1,38 @@
+form{
+    display: flex;
+    flex-direction: column;
+    p{
+        margin: 20px 0 10px 0;
+    }
+    h4{
+        margin-bottom: 15px;
+    }
+
+    .furn{
+        margin-bottom: 20px;
+    }
+    div{
+        select{
+            width: 200px;
+            height: 30px;
+        }
+    }
+
+    div{
+        display: flex;
+        column-gap: 10px;
+        align-items: center;
+        label{
+            display: flex;
+            column-gap: 30px;
+         
+            width: 100px;      
+        }
+    
+        input{
+            width: 200px;
+            height: 20px;
+        }
+    }
+ 
+}
