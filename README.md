@@ -33,7 +33,7 @@ Once you have both the frontend and backend applications running, you can access
 To deploy this project, you can follow these steps:
 
 1. Create an EC2 instance on Amazon Web Services.
-2. Install Node.js, MongoDB, and other necessary dependencies on the server.
+2. Install Node.js and other necessary dependencies on the server.
 3. Clone this repository onto the server.
 4. Set up a reverse proxy to redirect incoming traffic to the backend server.
 5. Use a service like Let's Encrypt to obtain an SSL certificate for your domain.
